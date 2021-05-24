@@ -1,4 +1,4 @@
-# Machine-Learning-Templates-Regession
+# Machine-Learning-Regression-Templates
 
 ## One stop for various Regression algorithms.
 
